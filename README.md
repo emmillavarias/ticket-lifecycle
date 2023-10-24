@@ -38,12 +38,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 <h2>Testing osTicket</h2>
 1) Login to Admin Panel
-2) Create a Test Ticket
-3) Check Email Notification
-4) Test User Portal
-5) Test Ticket Responce
-6) Test Knownledge Base
-7) Test Reports 
+</p>2) Create a Test Ticket
+</p>3) Check Email Notification
+</p>4) Test User Portal
+</p>5) Test Ticket Responce
+</p>6) Test Knownledge Base
+</p>7) Test Reports 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
